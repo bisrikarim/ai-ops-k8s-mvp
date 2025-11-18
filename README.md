@@ -1,9 +1,9 @@
 # AI-Ops MVP : Système de diagnostic et remédiation automatique pour Kubernetes
 
-[![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-1.28+-326CE5.svg)](https://kubernetes.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![LLM](https://img.shields.io/badge/LLM-Mistral--7B-orange.svg)](https://ollama.ai/)
+[![Python](https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-1.28+-blue?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![LLM](https://img.shields.io/badge/LLM-Mistral--7B-orange?style=for-the-badge&logoColor=white)](https://ollama.ai/)
 
 ## Vue d'ensemble
 
